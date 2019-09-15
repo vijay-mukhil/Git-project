@@ -1,8 +1,2 @@
-*
-This is a Sample Document
-Hello World
-*
-Wipro - Chennai
-Wipro - Bangalore
-Wipro - Kochin
-
+One
+Two
